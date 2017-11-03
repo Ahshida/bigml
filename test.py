@@ -1,6 +1,3 @@
-# Install via: pip install bigml
-#
-# or clone it:
 # git clone https://github.com/bigmlcom/python.git
 from bigml.cluster import Cluster
 from bigml.api import BigML
