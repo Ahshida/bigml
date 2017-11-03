@@ -1,9 +1,7 @@
-# Requires BigML Python bindings
-#
 # Install via: pip install bigml
 #
 # or clone it:
-#   git clone https://github.com/bigmlcom/python.git
+# git clone https://github.com/bigmlcom/python.git
 from bigml.cluster import Cluster
 from bigml.api import BigML
 # Downloads and generates a local version of the cluster, if it
